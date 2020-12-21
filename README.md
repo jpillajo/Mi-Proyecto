@@ -1,5 +1,4 @@
-# Mi-Proyecto
-### Pre-requisitos 📋
+### Mi-Proyecto 📋
 
 _Este es un ejemplo de README_
 
